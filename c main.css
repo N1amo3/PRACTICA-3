@@ -1,0 +1,40 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background: aquamarine;
+    padding: auto;
+}
+.carrusel{
+    width: 100%;
+    height: 350px;
+    background: cornflowerblue;
+    padding: auto;
+}
+.doble{
+    width: 100%;
+    height: 300px;
+    padding: auto;
+}
+.seccion1{
+    width: 100%;
+    height:300px;
+    background: rgb(238, 96, 127);
+}
+.seccion2{
+    width: 50%;
+    height: 190px;
+    background: khaki;
+    position: relative;
+    float : ringht!important;
+}
+.seccion3{
+    width: 100%;
+    height: 190px;
+    background: rgb(63, 179, 131);
+}
+.footer{
+    width: 100%;
+    padding: auto;
+    height: 50px;
+    background: violet;
+}
